@@ -17,8 +17,8 @@ organizations:
 bio: Podróżuję, biegam, fotografuję
 
 #interests:
-- Interesujące miejsca
-- Piękno swiata
+#- Interesujące miejsca
+#- Piękno swiata
 
 
 #education:
