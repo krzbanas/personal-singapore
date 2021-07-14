@@ -1,6 +1,6 @@
 ---
 title: Pomnik Chopina
-date: 2021-07-00
+date: 2021-07-11
 math: true
 diagram: true
 highlight: true
