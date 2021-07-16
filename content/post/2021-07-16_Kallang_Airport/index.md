@@ -10,3 +10,4 @@ image:
 ---
 
 Kallang Airport czyli perła w koronie. Pierwsze oficjalne lotnisko w Singapurze. Oficjalnie otwarte 12 czerwca 1937. Zakonczylo swą działalnosc w 1955.
+Amelia Earhart opisała go jako "an aviation miracle of the East".
