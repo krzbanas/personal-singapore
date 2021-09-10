@@ -12,3 +12,10 @@ Some photos:
 
 {{< gallery album="gbtb01" >}} 
 
+gallery_item:
+- album: gbtb01
+  image: 2021-09-08_101726.png
+  caption: Prusssian Blue
+- album: gbtb01
+  image: microphoto.png
+  caption: Here is microphoto of the cross-section
