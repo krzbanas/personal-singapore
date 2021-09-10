@@ -10,5 +10,5 @@ image:
 ---
 Some photos:
 
-{{< gallery album="<gbtb01>" >}} 
+{{< gallery album="gbtb01" >}} 
 
