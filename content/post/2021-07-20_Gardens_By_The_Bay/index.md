@@ -10,5 +10,5 @@ image:
 ---
 Some photos:
 
-{{< gallery album="gardens-by-the-bay_01" >}} 
+{{< gallery album="gbtb01" >}} 
 
