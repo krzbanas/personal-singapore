@@ -1,6 +1,7 @@
 ---
 title: Dzwon z Daru Mlodziezy
 date: 2021-07-19
+draft: false
 math: true
 diagram: true
 highlight: true
