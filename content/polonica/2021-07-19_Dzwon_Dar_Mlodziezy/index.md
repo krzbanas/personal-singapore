@@ -1,19 +1,17 @@
----
-title: Dzwon z Daru Mlodziezy
-date: 2021-07-19
-draft: false
-math: true
-diagram: true
-highlight: true
-image:
-  placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
----
-
++++
+date = "2021-07-19"
+lastmod = "2023-02-24"
+draft = false
+tags = ["Polonica"]
+title = "Dzwon z Daru Mlodziezy"
+summary = """
 Na szczycie Mount Faber z widokiem na Harbour Front i Sentozę
+"""
+math = false
++++
+
 
 Minister gospodarki morskiej i żeglugi śródlądowej Marek Gróbarczyk oraz minister transportu Singapuru, minister koordynujący ds. infrastruktury Khaw Boon Wan dokonali uroczystego odsłonięcia pamiątkowego dzwonu z żaglowca „Dar Młodzieży”.
-
 
 Zainaugurowany w dn. 29 października podczas wizyty ministra Marka Gróbarczyka w Singapurze pamiątkowy dzwon podarowany został Singapurowi przez Polskę w rocznicę pobytu żaglowca w Mieście Lwa w trakcie Rejsu Niepodległości. Uroczystość była częścią obchodów 50. rocznicy nawiązania stosunków dyplomatycznych między Polską a Singapurem.
 
