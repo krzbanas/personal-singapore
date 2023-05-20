@@ -8,7 +8,7 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: ✏️ Blog o Singapurze
+title: ✏️ Blog o Singapurze i nie tylko
 subtitle: 
 
 design:
